@@ -6,7 +6,6 @@
     "in-source": true,
     "module": "commonjs"
   },
-  "refmt": 3,
   "sources": [
     "src",
     {
