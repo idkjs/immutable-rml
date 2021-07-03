@@ -6,3 +6,4 @@ lib
 result
 .pid.lock
 node_modules
+.bsb.lock
